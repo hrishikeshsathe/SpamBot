@@ -1,14 +1,7 @@
 SpamBot
 =======
 
-Automated mail generator
-
-
-
-This is project that has been developed using Python language.
-
-We have used gData libraries to get the email contact List.
-
+A spambot created to spam peoples' email ids with spam. Just for fun and learning.
+Developed in python and uses gData library for contact list. 
 Used smtp Libraries to send the email and created a smtp server daemon of Gmail Server.
 
-Happy Python Coding!!
